@@ -30,28 +30,28 @@ nav.navbar-custom {
 }
 
 .navbar-custom .navbar-brand {
-  font-family: 'Roboto', sans-serif!important;
-  color: var(--color3) !important; 
+  font-family: 'Major Mono Display', monospace;
+  color: var(--color3) !important;
   font-size: 1.5em !important;
   font-weight:bolder;
 }
 
 .navbar-custom .nav-item .nav-link {
-  font-family: 'Roboto', sans-serif!important; 
+  font-family: 'Roboto', sans-serif!important;
   color: var(--color2) !important;
   font-weight:bold;
   letter-spacing: .05em;
 }
 
 .navbar-custom .navbar-brand:hover {
-  font-family: 'Roboto', sans-serif!important; 
+  font-family: 'Major Mono Display', monospace;
   color: var(--color2) !important;
   font-size: 1.5em !important;
   font-weight:bolder;
 }
 
 .navbar-custom .nav-item:hover .nav-link {
-  font-family: 'Roboto', sans-serif!important; 
+  font-family: 'Roboto', sans-serif!important;
   color: var(--color3) !important;
   font-weight:bold;
   letter-spacing: .05em;
@@ -62,7 +62,7 @@ a#pdf {
 }
 
 span#pdficon {
-  font-size: 1.3em; 
+  font-size: 1.3em;
 }
 
 /*************************************** /navbar style ***************************************/
@@ -114,7 +114,7 @@ span#pdficon {
 }
 
 a#readLink {
-  color: var(--color3) !important; 
+  color: var(--color3) !important;
   font-weight: bold;
 
 }
@@ -245,7 +245,7 @@ h3 {
   background-image:url(../images/footerimg-sd.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom; 
+  background-position: bottom;
   display: flex;
   align-content: center;
   align-items: center;
@@ -266,7 +266,7 @@ h3 {
 @media screen and (landscape) {
   .picture {
     height: 38vw;
-  } 
+  }
 }
 
 @media screen and (min-width: 992px) {
