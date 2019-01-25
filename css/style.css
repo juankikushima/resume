@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Roboto Slab', serif !important;
+  font-family: 'Work Sans', sans-serif;
   color: var(--color2) !important;
   background-color: var(--color1);
 }
@@ -24,34 +24,34 @@ nav.navbar-custom {
 }
 
 .navbar-custom {
-  font-family: 'Roboto', sans-serif!important;
+  font-family: 'Concert One', cursive;
   padding: 0 1vw 0 1vw !important;
   background-color: var(--color1);
 }
 
 .navbar-custom .navbar-brand {
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Space Mono', monospace;
   color: var(--color3) !important;
   font-size: 1.5em !important;
   font-weight:bolder;
 }
 
 .navbar-custom .nav-item .nav-link {
-  font-family: 'Roboto', sans-serif!important;
+  font-family: 'Concert One', cursive;
   color: var(--color2) !important;
   font-weight:bold;
   letter-spacing: .05em;
 }
 
 .navbar-custom .navbar-brand:hover {
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Space Mono', monospace;
   color: var(--color2) !important;
   font-size: 1.5em !important;
   font-weight:bolder;
 }
 
 .navbar-custom .nav-item:hover .nav-link {
-  font-family: 'Roboto', sans-serif!important;
+  font-family: 'Concert One', cursive;
   color: var(--color3) !important;
   font-weight:bold;
   letter-spacing: .05em;
@@ -94,6 +94,7 @@ span#pdficon {
 }
 
 .motto {
+  font-family: 'Space Mono', monospace;
   color: var(--color4);
   font-weight: bold;
   text-align: center;
@@ -179,6 +180,7 @@ p.readLinkcont {
 }
 
 .info {
+  font-family: 'Work Sans', sans-serif;
   display: flex;
   flex-direction: column;
 }
@@ -200,7 +202,7 @@ span.anchor {
 }
 
 h3 {
-  font-family: 'Roboto', sans-serif!important;
+  font-family: 'Concert One', cursive;
   font-size: 1.4em !important;
   font-weight: bolder !important;
   color: var(--color2) !important;
@@ -208,6 +210,7 @@ h3 {
 }
 
 .list-group-item-heading {
+  font-family: 'Space Mono', monospace;
   font-size: 1.1em !important;
   color: var(--color4) !important;
   font-weight: 600;
@@ -221,6 +224,7 @@ h3 {
 }
 
 .subt{
+  font-family: 'Space Mono', monospace;
   color:var(--color3) !important;
   font-weight: 450;
 }
@@ -280,7 +284,7 @@ h3 {
     background-color: var(--color1);
     margin: 100px 15vw 0 15vw;
     flex-basis: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
     -webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
@@ -310,7 +314,7 @@ h3 {
     background-color: var(--color1);
     margin: 2vh 0 2vh 0;
     padding: 2vw 2vw 2vw 2vw;
-    border-radius: 20px;
+    border-radius: 10px;
     -webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
@@ -381,7 +385,7 @@ h3 {
     background-image:url(../images/footerimg.png);
     height: 23vh;
     margin: 2vh 15vw 4vh 15vw;
-    border-radius: 20px;
+    border-radius: 10px;
     -webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
     box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
