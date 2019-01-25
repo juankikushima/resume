@@ -213,6 +213,7 @@ h3 {
   font-weight: 600;
   letter-spacing: .05em;
   margin-left: 2vw;
+  padding-top: 1vh;
 }
 
 .list-group-item-text {
