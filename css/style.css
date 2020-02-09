@@ -1,6 +1,6 @@
 :root {
 
-  --color1: #E9ECEE;
+  --color1: #f7f9fa;
   --color2: #133649;
   --color3: #0073CC;
   --color4: #003F70;
@@ -39,7 +39,7 @@ nav.navbar-custom {
 .navbar-custom .nav-item .nav-link {
   font-family: 'Concert One', cursive;
   color: var(--color2) !important;
-  font-weight:bold;
+  /*font-weight:bold;*/
   letter-spacing: .05em;
 }
 
@@ -203,8 +203,8 @@ span.anchor {
 
 h3 {
   font-family: 'Concert One', cursive;
-  font-size: 1.4em !important;
-  font-weight: bolder !important;
+  font-size: 1.6em !important;
+  /*font-weight: bolder !important;*/
   color: var(--color2) !important;
   letter-spacing: .1em;
 }
